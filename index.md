@@ -1,6 +1,6 @@
-## Welcome to Dan's Pages
+## Welcome to Daniel Resume 
 
-You can use the [editor on GitHub](https://github.com/dnmueller19/dnmueller19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You take at look at my [GitHub](https://github.com/dnmueller19) profile to see the projects I have worked on!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
