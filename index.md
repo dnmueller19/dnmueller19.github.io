@@ -1,14 +1,14 @@
-## Welcome to Daniel Resume 
+## Welcome to Daniel's Webpage
 
 ### GitHub
 You take at look at my [GitHub](https://github.com/dnmueller19) profile to see the projects I have worked on!
 
-#### LinkedIn
+### LinkedIn
 
 Take a look at my [LinkedIn](https://www.linkedin.com/in/daniel-n-mueller/) profile for more about me that isn't covered in my resume.
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
