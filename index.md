@@ -1,12 +1,11 @@
 ## Welcome to Daniel Resume 
 
+### GitHub
 You take at look at my [GitHub](https://github.com/dnmueller19) profile to see the projects I have worked on!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### LinkedIn
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Take a look at my [LinkedIn](https://www.linkedin.com/in/daniel-n-mueller/) profile for more about me that isn't covered in my resume.
 
 ```markdown
 Syntax highlighted code block
