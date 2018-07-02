@@ -7,7 +7,7 @@ You take at look at my [GitHub](https://github.com/dnmueller19) profile to see t
 
 Take a look at my [LinkedIn](https://www.linkedin.com/in/daniel-n-mueller/) profile for more about me that isn't covered in my resume.
 
-
+```markdown
 Syntax highlighted code block
 
 # Header 1
